@@ -1,3 +1,5 @@
 Name : Muhammad Farhan
 address : Muara Tebo, Jambi
 Job : Student
+gender : Male
+Hobby : Playing some games
